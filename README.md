@@ -1,3 +1,4 @@
 # CMPINF0010_VersionControl
-Group member:
+Group members:
 Bairun Chen
+Madelyn Dayrit
