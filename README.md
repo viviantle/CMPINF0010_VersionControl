@@ -2,3 +2,4 @@
 Group members:
 Bairun Chen
 Madelyn Dayrit
+Vivian Le
